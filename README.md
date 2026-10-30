@@ -1,2 +1,0 @@
-# mary-blood-
-gui
